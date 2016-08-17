@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1429" started-at="2016-08-17T14:33:26Z" finished-at="2016-08-17T14:33:28Z">
+    <groups>
+      <group name="FunTest">
+        <method signature="HomePage.test_About()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_About" class="com.ltng01.test.HomePage"/>
+        <method signature="HomePage.test_Help()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_Help" class="com.ltng01.test.HomePage"/>
+      </group> <!-- FunTest -->
+      <group name="RegTest">
+        <method signature="HomePage.test_Help()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_Help" class="com.ltng01.test.HomePage"/>
+      </group> <!-- RegTest -->
+    </groups>
+    <test name="Test" duration-ms="1429" started-at="2016-08-17T14:33:26Z" finished-at="2016-08-17T14:33:28Z">
+      <class name="com.ltng01.test.HomePage">
+        <test-method status="PASS" signature="before_suite()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_suite" is-config="true" duration-ms="58" started-at="2016-08-17T20:03:26Z" finished-at="2016-08-17T20:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_suite -->
+        <test-method status="PASS" signature="before_test()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_test" is-config="true" duration-ms="1" started-at="2016-08-17T20:03:26Z" finished-at="2016-08-17T20:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_test -->
+        <test-method status="PASS" signature="before_class()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_class" is-config="true" duration-ms="12" started-at="2016-08-17T20:03:26Z" finished-at="2016-08-17T20:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_class -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_HomePage" duration-ms="18" started-at="2016-08-17T20:03:27Z" data-provider="dp_test" finished-at="2016-08-17T20:03:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HomePage -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_HomePage" duration-ms="7" started-at="2016-08-17T20:03:27Z" data-provider="dp_test" finished-at="2016-08-17T20:03:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HomePage -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_HomePage" duration-ms="31" started-at="2016-08-17T20:03:27Z" data-provider="dp_test" finished-at="2016-08-17T20:03:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HomePage -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_method" is-config="true" duration-ms="10" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_method" is-config="true" duration-ms="4" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_HomePage" duration-ms="10" started-at="2016-08-17T20:03:27Z" data-provider="dp_test" finished-at="2016-08-17T20:03:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[40000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HomePage -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_method" is-config="true" duration-ms="15" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_method" is-config="true" duration-ms="2" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_HomePage" duration-ms="7" started-at="2016-08-17T20:03:27Z" data-provider="dp_test" finished-at="2016-08-17T20:03:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[50000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HomePage -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_method" is-config="true" duration-ms="6" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_HomePage" duration-ms="13" started-at="2016-08-17T20:03:27Z" data-provider="dp_test" finished-at="2016-08-17T20:03:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[60000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HomePage -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_method" is-config="true" duration-ms="2" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_HomePage" duration-ms="8" started-at="2016-08-17T20:03:27Z" data-provider="dp_test" finished-at="2016-08-17T20:03:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[70000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HomePage -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_method" is-config="true" duration-ms="2" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_HomePage" duration-ms="11" started-at="2016-08-17T20:03:27Z" data-provider="dp_test" finished-at="2016-08-17T20:03:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[80000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HomePage -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_method" is-config="true" duration-ms="4" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:03:27Z" finished-at="2016-08-17T20:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_HomePage" duration-ms="14" started-at="2016-08-17T20:03:27Z" data-provider="dp_test" finished-at="2016-08-17T20:03:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[90000.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_HomePage -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_method" is-config="true" duration-ms="5" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_method" is-config="true" duration-ms="2" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_About()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_About" duration-ms="3" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_About -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_Help()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_Help" duration-ms="2" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Help -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_method" is-config="true" duration-ms="2" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_DashBoard_Login()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_DashBoard_Login" duration-ms="2" started-at="2016-08-17T20:03:28Z" depends-on-methods="com.ltng01.test.HomePage.test_HomePage" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DashBoard_Login -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_DashBoard_Logout()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="test_DashBoard_Logout" duration-ms="13" started-at="2016-08-17T20:03:28Z" depends-on-methods="com.ltng01.test.HomePage.test_HomePage, com.ltng01.test.HomePage.test_DashBoard_Login" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DashBoard_Logout -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="after_class()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_class" is-config="true" duration-ms="1" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_class -->
+        <test-method status="PASS" signature="after_test()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_test" is-config="true" duration-ms="10" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_test -->
+        <test-method status="PASS" signature="after_suite()[pri:0, instance:com.ltng01.test.HomePage@6f7fd0e6]" name="after_suite" is-config="true" duration-ms="0" started-at="2016-08-17T20:03:28Z" finished-at="2016-08-17T20:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_suite -->
+      </class> <!-- com.ltng01.test.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
