@@ -2,7 +2,7 @@
 <testng-results skipped="0" failed="0" total="13" passed="13">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="538" started-at="2016-08-17T15:05:31Z" finished-at="2016-08-17T15:05:31Z">
+  <suite name="Suite" duration-ms="615" started-at="2016-08-17T16:17:00Z" finished-at="2016-08-17T16:17:00Z">
     <groups>
       <group name="FunTest">
         <method signature="HomePage.test_About()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_About" class="com.ltng01.test.HomePage"/>
@@ -12,25 +12,25 @@
         <method signature="HomePage.test_Help()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_Help" class="com.ltng01.test.HomePage"/>
       </group> <!-- RegTest -->
     </groups>
-    <test name="Test" duration-ms="538" started-at="2016-08-17T15:05:31Z" finished-at="2016-08-17T15:05:31Z">
+    <test name="Test" duration-ms="615" started-at="2016-08-17T16:17:00Z" finished-at="2016-08-17T16:17:00Z">
       <class name="com.ltng01.test.HomePage">
-        <test-method status="PASS" signature="before_suite()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_suite" is-config="true" duration-ms="25" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="before_suite()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_suite" is-config="true" duration-ms="27" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before_suite -->
-        <test-method status="PASS" signature="before_test()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_test" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="before_test()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_test" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before_test -->
-        <test-method status="PASS" signature="before_class()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_class" is-config="true" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="before_class()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_class" is-config="true" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before_class -->
-        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before_method -->
-        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="4" started-at="2016-08-17T20:35:31Z" data-provider="dp_test" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="4" started-at="2016-08-17T21:47:00Z" data-provider="dp_test" finished-at="2016-08-17T21:47:00Z">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_HomePage -->
-        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- before_method -->
-        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after_method -->
-        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="0" started-at="2016-08-17T20:35:31Z" data-provider="dp_test" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="0" started-at="2016-08-17T21:47:00Z" data-provider="dp_test" finished-at="2016-08-17T21:47:00Z">
           <params>
             <param index="0">
               <value>
@@ -80,19 +80,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_HomePage -->
-        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after_method -->
-        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- before_method -->
-        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- after_method -->
-        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="0" started-at="2016-08-17T20:35:31Z" data-provider="dp_test" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="1" started-at="2016-08-17T21:47:00Z" data-provider="dp_test" finished-at="2016-08-17T21:47:00Z">
           <params>
             <param index="0">
               <value>
@@ -113,11 +105,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_HomePage -->
-        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before_method -->
-        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="0" started-at="2016-08-17T20:35:31Z" data-provider="dp_test" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="1" started-at="2016-08-17T21:47:00Z" data-provider="dp_test" finished-at="2016-08-17T21:47:00Z">
           <params>
             <param index="0">
               <value>
@@ -138,11 +138,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_HomePage -->
-        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after_method -->
-        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="1" started-at="2016-08-17T20:35:31Z" data-provider="dp_test" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="1" started-at="2016-08-17T21:47:00Z" data-provider="dp_test" finished-at="2016-08-17T21:47:00Z">
           <params>
             <param index="0">
               <value>
@@ -163,19 +163,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_HomePage -->
-        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before_method -->
-        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after_method -->
-        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before_method -->
-        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="0" started-at="2016-08-17T20:35:31Z" data-provider="dp_test" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="0" started-at="2016-08-17T21:47:00Z" data-provider="dp_test" finished-at="2016-08-17T21:47:00Z">
           <params>
             <param index="0">
               <value>
@@ -196,19 +196,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_HomePage -->
-        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after_method -->
-        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- before_method -->
-        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- after_method -->
-        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="0" started-at="2016-08-17T20:35:31Z" data-provider="dp_test" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="0" started-at="2016-08-17T21:47:00Z" data-provider="dp_test" finished-at="2016-08-17T21:47:00Z">
           <params>
             <param index="0">
               <value>
@@ -229,7 +221,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_HomePage -->
-        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="1" started-at="2016-08-17T20:35:31Z" data-provider="dp_test" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="0" started-at="2016-08-17T21:47:00Z" data-provider="dp_test" finished-at="2016-08-17T21:47:00Z">
           <params>
             <param index="0">
               <value>
@@ -250,23 +254,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_HomePage -->
-        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- before_method -->
-        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after_method -->
-        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before_method -->
-        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- after_method -->
-        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="0" started-at="2016-08-17T20:35:31Z" data-provider="dp_test" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="test_HomePage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_HomePage" duration-ms="0" started-at="2016-08-17T21:47:00Z" data-provider="dp_test" finished-at="2016-08-17T21:47:00Z">
           <params>
             <param index="0">
               <value>
@@ -287,63 +283,67 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_HomePage -->
-        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after_method -->
-        <test-method status="PASS" signature="test_About()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_About" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="test_About()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_About" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_About -->
-        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before_method -->
-        <test-method status="PASS" signature="test_Help()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_Help" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="test_Help()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_Help" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_Help -->
-        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- before_method -->
-        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after_method -->
-        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before_method -->
-        <test-method status="PASS" signature="test_DashBoard_Login()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_DashBoard_Login" duration-ms="0" started-at="2016-08-17T20:35:31Z" depends-on-methods="com.ltng01.test.HomePage.test_HomePage" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="test_DashBoard_Login()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_DashBoard_Login" duration-ms="0" started-at="2016-08-17T21:47:00Z" depends-on-methods="com.ltng01.test.HomePage.test_HomePage" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_DashBoard_Login -->
-        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- after_method -->
-        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="before_method" is-config="true" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before_method -->
-        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_method" is-config="true" duration-ms="1" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after_method -->
-        <test-method status="PASS" signature="test_DashBoard_Logout()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_DashBoard_Logout" duration-ms="0" started-at="2016-08-17T20:35:31Z" depends-on-methods="com.ltng01.test.HomePage.test_HomePage, com.ltng01.test.HomePage.test_DashBoard_Login" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="test_DashBoard_Logout()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="test_DashBoard_Logout" duration-ms="0" started-at="2016-08-17T21:47:00Z" depends-on-methods="com.ltng01.test.HomePage.test_HomePage, com.ltng01.test.HomePage.test_DashBoard_Login" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_DashBoard_Logout -->
-        <test-method status="PASS" signature="after_class()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_class" is-config="true" duration-ms="0" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_class()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_class" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after_class -->
-        <test-method status="PASS" signature="after_test()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_test" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_test()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_test" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after_test -->
-        <test-method status="PASS" signature="after_suite()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_suite" is-config="true" duration-ms="1" started-at="2016-08-17T20:35:31Z" finished-at="2016-08-17T20:35:31Z">
+        <test-method status="PASS" signature="after_suite()[pri:0, instance:com.ltng01.test.HomePage@6574b225]" name="after_suite" is-config="true" duration-ms="0" started-at="2016-08-17T21:47:00Z" finished-at="2016-08-17T21:47:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after_suite -->
